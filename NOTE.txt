@@ -1,0 +1,6 @@
+
+
+
+  1.Changed the app icon from Manifest file android:icon = "@drawable/"
+	
+  2.Changed the app name from strings.xml file <string name = "app_name">name</string>
